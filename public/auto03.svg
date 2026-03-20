@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 614" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic','Noto Sans JP',sans-serif">
+
+  <!-- Card background -->
+  <rect width="460" height="614" rx="12" fill="#FFFFFF"/>
+
+  <!-- Legend header area -->
+  <rect x="0" y="0" width="460" height="52" rx="0" fill="#F5F0FF"/>
+  <rect x="0" y="0" width="460" height="12" rx="12" fill="#F5F0FF"/>
+  <rect x="0" y="40" width="460" height="12" fill="#F5F0FF"/>
+
+  <!-- Legend: 確定予約 -->
+  <rect x="22" y="17" width="12" height="12" rx="2" fill="#4A7FC1"/>
+  <text x="38" y="28" font-size="13" fill="#444">確定予約</text>
+  <!-- Legend: 仮割当 -->
+  <rect x="136" y="17" width="12" height="12" rx="2" fill="#E8924A"/>
+  <text x="152" y="28" font-size="13" fill="#444">仮割当</text>
+  <!-- Legend: 空き -->
+  <rect x="222" y="17" width="12" height="12" rx="2" fill="#EDEBE8" stroke="#D8D5D0" stroke-width="0.8"/>
+  <text x="238" y="28" font-size="13" fill="#444">空き</text>
+
+  <!-- Header divider -->
+  <line x1="0" y1="52" x2="460" y2="52" stroke="#E2E0DE" stroke-width="1"/>
+
+  <!-- Date column header background -->
+  <rect x="115" y="52" width="321" height="32" fill="#FAF8FF"/>
+
+  <!-- Date labels -->
+  <text x="135" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/15</text>
+  <text x="175" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/16</text>
+  <text x="215" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/17</text>
+  <text x="255" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/18</text>
+  <text x="295" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/19</text>
+  <text x="335" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/20</text>
+  <text x="375" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/21</text>
+  <text x="415" y="72" font-size="9" fill="#9A9898" text-anchor="middle">03/22</text>
+
+  <line x1="0" y1="84" x2="460" y2="84" stroke="#E2E0DE" stroke-width="1"/>
+
+  <!-- ═══ ROW 0  y=84  [0,0,0,1,1,1,0,0] ═══ -->
+  <rect x="0" y="84" width="460" height="64" fill="#FAFAF9"/>
+  <text x="22" y="121" font-size="13" font-weight="600" fill="#333">車 1</text>
+  <rect x="117" y="104" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="157" y="104" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="197" y="104" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="237" y="104" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="277" y="104" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="317" y="104" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="357" y="104" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="397" y="104" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <line x1="0" y1="148" x2="460" y2="148" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 1  y=148  [1,1,0,0,1,2,2,0] ═══ -->
+  <text x="22" y="185" font-size="13" font-weight="600" fill="#333">車 2</text>
+  <rect x="117" y="168" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="157" y="168" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="197" y="168" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="237" y="168" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="277" y="168" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="317" y="168" width="36" height="24" rx="5" fill="#E8924A"/>
+  <rect x="357" y="168" width="36" height="24" rx="5" fill="#E8924A"/>
+  <rect x="397" y="168" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <circle cx="353" cy="167" r="8" fill="#E53E3E"/>
+  <text x="353" y="171" font-size="10" fill="white" text-anchor="middle" font-weight="700">!</text>
+  <line x1="0" y1="212" x2="460" y2="212" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 2  y=212  [0,1,1,1,0,2,1,1] ═══ -->
+  <rect x="0" y="212" width="460" height="64" fill="#FAFAF9"/>
+  <text x="22" y="249" font-size="13" font-weight="600" fill="#333">車 3</text>
+  <rect x="117" y="232" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="157" y="232" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="197" y="232" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="237" y="232" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="277" y="232" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="317" y="232" width="36" height="24" rx="5" fill="#E8924A"/>
+  <rect x="357" y="232" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="397" y="232" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <circle cx="313" cy="231" r="8" fill="#E53E3E"/>
+  <text x="313" y="235" font-size="10" fill="white" text-anchor="middle" font-weight="700">!</text>
+  <line x1="0" y1="276" x2="460" y2="276" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 3  y=276  [1,1,0,1,1,1,0,1] ═══ -->
+  <text x="22" y="313" font-size="13" font-weight="600" fill="#333">車 4</text>
+  <rect x="117" y="296" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="157" y="296" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="197" y="296" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="237" y="296" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="277" y="296" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="317" y="296" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="357" y="296" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="397" y="296" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <line x1="0" y1="340" x2="460" y2="340" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 4  y=340  [1,1,1,1,0,0,1,0] ═══ -->
+  <rect x="0" y="340" width="460" height="64" fill="#FAFAF9"/>
+  <text x="22" y="377" font-size="13" font-weight="600" fill="#333">車 5</text>
+  <rect x="117" y="360" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="157" y="360" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="197" y="360" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="237" y="360" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="277" y="360" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="317" y="360" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="357" y="360" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="397" y="360" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <line x1="0" y1="404" x2="460" y2="404" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 5  y=404  [0,0,0,0,1,1,0,0] ═══ -->
+  <text x="22" y="441" font-size="13" font-weight="600" fill="#333">車 6</text>
+  <rect x="117" y="424" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="157" y="424" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="197" y="424" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="237" y="424" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="277" y="424" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="317" y="424" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="357" y="424" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="397" y="424" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <line x1="0" y1="468" x2="460" y2="468" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 6  y=468  [1,1,1,0,1,2,2,1] ═══ -->
+  <rect x="0" y="468" width="460" height="64" fill="#FAFAF9"/>
+  <text x="22" y="505" font-size="13" font-weight="600" fill="#333">車 7</text>
+  <rect x="117" y="488" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="157" y="488" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="197" y="488" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="237" y="488" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="277" y="488" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="317" y="488" width="36" height="24" rx="5" fill="#E8924A"/>
+  <rect x="357" y="488" width="36" height="24" rx="5" fill="#E8924A"/>
+  <rect x="397" y="488" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <circle cx="313" cy="487" r="8" fill="#E53E3E"/>
+  <text x="313" y="491" font-size="10" fill="white" text-anchor="middle" font-weight="700">!</text>
+  <line x1="0" y1="532" x2="460" y2="532" stroke="#E2E0DE" stroke-width="0.5"/>
+
+  <!-- ═══ ROW 7  y=532  [0,0,1,1,0,1,1,0] ═══ -->
+  <text x="22" y="569" font-size="13" font-weight="600" fill="#333">車 8</text>
+  <rect x="117" y="552" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="157" y="552" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="197" y="552" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="237" y="552" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="277" y="552" width="36" height="24" rx="5" fill="#EDEBE8"/>
+  <rect x="317" y="552" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="357" y="552" width="36" height="24" rx="5" fill="#4A7FC1"/>
+  <rect x="397" y="552" width="36" height="24" rx="5" fill="#EDEBE8"/>
+
+</svg>
