@@ -89,7 +89,7 @@ export default function HackathonProject() {
               </p>
             </div>
             <img
-              src="/使い切れてる？.png"
+              src="/CanUse.png"
               alt="買った食材、全部使い切れていますか？"
               className="rounded-3xl w-full object-contain"
             />
