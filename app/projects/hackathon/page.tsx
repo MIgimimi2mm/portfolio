@@ -393,7 +393,7 @@ export default function HackathonProject() {
       </section>
 
       {/* ─── CTA ── bg: white に着地 ─── */}
-      <div className="max-w-4xl mx-auto py-28 flex flex-col items-center text-center gap-6">
+      {/* <div className="max-w-4xl mx-auto py-28 flex flex-col items-center text-center gap-6">
         <p className="text-3xl font-black">コードを読んでみる</p>
         <a
           href="https://github.com/yudo417/Workspace_katsuUdon.git"
@@ -403,7 +403,7 @@ export default function HackathonProject() {
         >
           GitHub でコードを見る →
         </a>
-      </div>
+      </div> */}
 
     </main>
   );
