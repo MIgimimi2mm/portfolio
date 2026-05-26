@@ -18,8 +18,8 @@ const timeline = [
   { year: "2024", text: "地方創生★アイディアコンテスト 出場" },
   { year: "2025", text: "Tornado 2025 ハッカソン 最優秀賞 受賞" },
   { year: "2025", text: "Hakodate 2025 アカデミックリンク 優秀賞 受賞" }, //a
-  { year: "2026", text: "公立はこだて未来大学 卒業見込み" },
-  { year: "2026", text: "大学院 システム情報科学研究科 進学予定" },
+  { year: "2026", text: "公立はこだて未来大学 卒業" },
+  { year: "2026", text: "公立はこだて未来大学 大学院 システム情報科学研究科 入学" },
 ];
 
 const qualifications = ["基本情報技術者"];
@@ -112,7 +112,7 @@ export default function About() {
               <h3 className="text-xl font-bold mb-1">浅古 尚登</h3>
               <p className="text-sub text-sm mb-1">Asako Naoto</p>
               <p className="text-sub text-sm">
-                公立はこだて未来大学 システム情報科学部 → 大学院進学予定
+                公立はこだて未来大学 大学院 システム情報科学研究科 竹川研究室
               </p>
             </div>
 
